@@ -6,3 +6,4 @@ Learned how classes and objects form the foundation of OOP.
 Explored abstract classes and interfaces to demonstrate polymorphism.
 Implemented a Shape hierarchy with Circle and Rectangle classes using abstraction.
 <br><strong>Day 3</strong>: Explored inheritance concepts, implemented multilevel inheritance with Student and GraduateStudent classes, and demonstrated multiple inheritance using an interface Sports. Combined specialization and sports information to display a graduate student's complete profile.
+<br><strong>Day 4</strong> : Implemented key OOP concepts including polymorphism, dynamic method dispatch, upcasting, and downcasting. Demonstrated runtime polymorphism using method overriding and type casting to access subclass-specific methods safely.
